@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![hayunyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hayunyun)](https://wakatime.com/@hayunyun)
+
 <!--
 **hayunyun/hayunyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
