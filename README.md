@@ -4,9 +4,10 @@
 ## Last 7 Days Wakatime
 <!--START_SECTION:waka-->
 ```text
-Python       12 hrs 3 mins   ███████████████████████▒░   93.52 % 
-HTML         48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python       12 hrs 21 mins  ███████████████████▓░░░░░   79.01 % 
+HTML         3 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
 
