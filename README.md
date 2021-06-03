@@ -4,11 +4,11 @@
 ## Last 7 Days Wakatime
 <!--START_SECTION:waka-->
 ```text
-Python            12 hrs 48 mins  ██████████████████▒░░░░░░   73.55 % 
-HTML              4 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
-Gettext Catalog   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-CSS               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Git Config        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python            13 hrs 55 mins  ██████████████████▒░░░░░░   72.97 % 
+HTML              5 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.22 % 
+Other             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Gettext Catalog   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+CSS               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
 
