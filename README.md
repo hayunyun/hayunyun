@@ -1,7 +1,6 @@
 
 ![hayunyun's github stats](https://github-readme-stats.vercel.app/api?username=hayunyun&show_icons=true)
 
-## Last 7 Days Wakatime
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
