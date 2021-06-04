@@ -1,6 +1,3 @@
-
-![hayunyun's github stats](https://github-readme-stats.vercel.app/api?username=hayunyun&show_icons=true)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
@@ -54,8 +51,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-      
-
+![hayunyun's github stats](https://github-readme-stats.vercel.app/api?username=hayunyun&show_icons=true)
 
 <!--
 **hayunyun/hayunyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
