@@ -1,9 +1,17 @@
+<div align="center">
+
+# Hello World 🙋‍♀️
 
 ![hayunyun's github stats](https://github-readme-stats.vercel.app/api?username=hayunyun&show_icons=true)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayunyun)](https://solved.ac/hayunyun)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayunyun&layout=compact)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2055%20mins-blue)
+
+</div>
 
 **I'm a Night 🦉** 
 
@@ -61,3 +69,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
