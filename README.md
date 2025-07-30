@@ -9,8 +9,6 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayunyun&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2047%20mins-blue)
-
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
@@ -46,7 +44,7 @@
 ```
 
 
- Last Updated on 29/07/2025 18:57:27 UTC
+ Last Updated on 30/07/2025 18:55:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
